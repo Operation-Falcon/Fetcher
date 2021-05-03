@@ -20,3 +20,9 @@ Usage :
 
 ![fetchusage](https://user-images.githubusercontent.com/83413793/116839702-f2445f80-abf0-11eb-9b31-001a68cc2ff5.png)
 
+                   python3 fetcher.py -h 
+                   
+                   python3 fetcher.py -d <domain name> -o <output filename>
+                   
+                   python3 fetcher.py -f <filename containing domains> -o < output filename>
+
