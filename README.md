@@ -15,3 +15,5 @@ Installation :
                    cd Fetcher
                    
                    pip3 install -r requirements.txt
+                   
+Usage : 
