@@ -10,3 +10,8 @@ Fetcher grabs all possible links for a particular domain or you can pass a file 
 
 Installation :
 
+                   git clone https://github.com/operationfalcon/Fetcher.git
+                   
+                   cd Fetcher
+                   
+                   pip3 install -r requirements.txt
